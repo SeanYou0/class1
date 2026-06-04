@@ -1,0 +1,6 @@
+{
+  "name": "Digital Dopamine Detox",
+  "description": "디지털 도파민 디톡스 랜딩 및 사용 시간 분석기 - 스마트폰 사용 기록 분석과 도파민 디톡스 플래너 제공",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
